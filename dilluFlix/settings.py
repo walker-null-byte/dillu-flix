@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-thtd(sy0go$sn=^$_o5bd%dzj6#&*0ch^4^pj3(v(eyipv%!q('
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['https://dillu-flix.herokuapp.com/','127.0.0.1']
 
