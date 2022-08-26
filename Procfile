@@ -1,1 +1,1 @@
-web: gunicorn dilluFlix.wsgi --log-file -
+web: dilluFlix.wsgi.application --log-file -
