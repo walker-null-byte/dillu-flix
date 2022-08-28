@@ -9,6 +9,7 @@ urlpatterns = [
     path('movies',views.movies),
     path('random',views.random),
     path('test',views.test),
+    path('dilluvpn',views.dilluvpn),
     path('yourname',views.player.anime.yourname),
     path('tenkinoko',views.player.anime.tenkinoko),
     path('spiritedaway',views.player.anime.spiritedaway),
